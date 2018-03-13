@@ -3,21 +3,36 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A2DP/A2DP.iml" filepath="$PROJECT_DIR$/A2DP/A2DP.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\A2DP\A2DP.iml" filepath="D:\repository\Github\AndroidData\A2DP\A2DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AidlClient/AidlClient.iml" filepath="$PROJECT_DIR$/AidlClient/AidlClient.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\AidlClient\AidlClient.iml" filepath="D:\repository\Github\AndroidData\AidlClient\AidlClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/AidlService/AidlService.iml" filepath="$PROJECT_DIR$/AidlService/AidlService.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\AidlService\AidlService.iml" filepath="D:\repository\Github\AndroidData\AidlService\AidlService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidData.iml" filepath="$PROJECT_DIR$/AndroidData.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\BlockingQueue\BlockingQueue.iml" filepath="D:\repository\Github\AndroidData\BlockingQueue\BlockingQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode/DesignMode.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\DesignMode\DesignMode.iml" filepath="D:\repository\Github\AndroidData\DesignMode\DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/IpcClient/IpcClient.iml" filepath="$PROJECT_DIR$/IpcClient/IpcClient.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\IpcClient\IpcClient.iml" filepath="D:\repository\Github\AndroidData\IpcClient\IpcClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/IpcService/IpcService.iml" filepath="$PROJECT_DIR$/IpcService/IpcService.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\IpcService\IpcService.iml" filepath="D:\repository\Github\AndroidData\IpcService\IpcService.iml" />
       <module fileurl="file://$PROJECT_DIR$/L3Cache/L3Cache.iml" filepath="$PROJECT_DIR$/L3Cache/L3Cache.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\L3Cache\L3Cache.iml" filepath="D:\repository\Github\AndroidData\L3Cache\L3Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" filepath="$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\Libmp3Decoder\Libmp3Decoder.iml" filepath="D:\repository\Github\AndroidData\Libmp3Decoder\Libmp3Decoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/NightMode/NightMode.iml" filepath="$PROJECT_DIR$/NightMode/NightMode.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\NightMode\NightMode.iml" filepath="D:\repository\Github\AndroidData\NightMode\NightMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProcessService/ProcessService.iml" filepath="$PROJECT_DIR$/ProcessService/ProcessService.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\ProcessService\ProcessService.iml" filepath="D:\repository\Github\AndroidData\ProcessService\ProcessService.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" filepath="$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\SimpleMVP\SimpleMVP.iml" filepath="D:\repository\Github\AndroidData\SimpleMVP\SimpleMVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketDemo/SocketDemo.iml" filepath="$PROJECT_DIR$/SocketDemo/SocketDemo.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\SocketDemo\SocketDemo.iml" filepath="D:\repository\Github\AndroidData\SocketDemo\SocketDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoProcessService/TwoProcessService.iml" filepath="$PROJECT_DIR$/TwoProcessService/TwoProcessService.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\TwoProcessService\TwoProcessService.iml" filepath="D:\repository\Github\AndroidData\TwoProcessService\TwoProcessService.iml" />
       <module fileurl="file://H:\as3.0_project\app\app.iml" filepath="H:\as3.0_project\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/as3.0_project.iml" filepath="$PROJECT_DIR$/as3.0_project.iml" />
+      <module fileurl="file://D:\repository\Github\AndroidData\as3.0_project.iml" filepath="D:\repository\Github\AndroidData\as3.0_project.iml" />
       <module fileurl="file://H:\as3.0_project\mvpdemo\mvpdemo.iml" filepath="H:\as3.0_project\mvpdemo\mvpdemo.iml" />
     </modules>
   </component>
